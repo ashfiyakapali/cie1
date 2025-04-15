@@ -25,5 +25,6 @@ public class simpleinterest {
         System.out.println("Simple Interest = " + simpleInterest);
 
         scanner.close();
+        System.out.println("i am in main branch");
     }
 }
